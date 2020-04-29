@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "dev":"react-scripts start",
+    "dev": "react-scripts start",
     "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
